@@ -15,12 +15,9 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Program:
 ```
+
 /*
-Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: 
-RegisterNumber:
-/*
-Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
+
 import pandas as pd
 data=pd.read_csv("Employee.csv")
 print("data.head():")
@@ -75,7 +72,8 @@ RegisterNumber:25009292
 <img width="1226" height="222" alt="530317054-86d764d4-de4a-499d-87e4-9e8417de7b02" src="https://github.com/user-attachments/assets/ca3fae26-2406-4091-a3d4-5a692e9a8241" />
 <img width="452" height="65" alt="530317166-0da5fc56-e4f1-46fa-a724-e38b5fb4a9f6" src="https://github.com/user-attachments/assets/e4d81f7f-3b77-4ed2-8942-6fe816ae59dd" />
 <img width="1247" height="133" alt="530317209-6adfd144-bdd3-4cd6-892e-41cd0b32f033" src="https://github.com/user-attachments/assets/4acf1086-10e6-4fbd-b193-ec7afa6ec3a7" />
-![Uploading 530317248-74440b99-f3e9-434d-b976-5f7e10010478.png…]()
+<img width="651" height="482" alt="530317248-74440b99-f3e9-434d-b976-5f7e10010478" src="https://github.com/user-attachments/assets/cd5e66d8-f91e-43cd-9855-dbdc61361a9e" />
+
 
 
 ## Result:
